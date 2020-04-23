@@ -1,0 +1,113 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	padding: 40px;
+	background-image: url("../images/trefpunt_logo .jpg");
+	background-color: darkolivegreen;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	line-height: 48px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+h1 {
+	color: white;
+	font-family: 'Spartan', sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	margin-left: 46px;
+	text-shadow: 2px 2px 8px black;
+}
+
+footer {
+	padding: 20px;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: darkolivegreen;
+	margin-bottom: 0px;
+	position: static;
+	line-height: 20px;
+}
+
+p {
+	font-family: 'Spartan', sans-serif;
+	font-size: 16px;
+	color: white;
+	font-weight: normal;
+}
+
+p.footer-text {
+	color: white;
+	text-align: right;
+	margin-right: 30px;
+}
+
+
+p.main-content-text {
+	color: white;
+	padding: 10px;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+}
+
+section.main-content {
+	border-color: darkolivegreen;
+	border-style: solid;
+	margin: 30px;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+}
+
+section.img {
+	float: left; 
+	padding: 16px; 
+	padding-top: 30px;
+}
+
+.carousel {
+	width: 500px;
+	height: auto;
+	padding-top: 10px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	margin: 30px;
+}
+
+.navbar {
+	float: none;
+	padding-left: 70px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	column-rule-color: darkolivegreen;
+	outline-color: darkolivegreen;
+}
+
+.badge {
+	color: darkolivegreen;
+}
+
+.mb-4 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: darkolivegreen;
+	margin: 10px;
+}
+
+.text-center {
+	color: black;
+}
+
+.h1-responsive {
+	color: darkolivegreen;
+}
+
+.btn {
+	background-color: darkolivegreen;
+	border-style: none;
+	color: white;
+}
+
+.text-center {
+	color: black;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
